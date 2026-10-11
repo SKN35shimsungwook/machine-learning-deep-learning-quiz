@@ -1,5 +1,7 @@
 # ML·DL 용어 퀴즈
 
+**🔗 바로 실행해 보기:** https://machine-learning-deep-learning-quiz-bohfsvfryhncd2asfzjcrg.streamlit.app
+
 혼자 공부하는 머신러닝+딥러닝(개정판) 용어노트를 기반으로 만든 인터랙티브 학습 퀴즈입니다.
 
 - 1장부터 10장까지 전 범위를 다루는 96문항 (개념형 4지선다 + 계산 문제)
